@@ -3,7 +3,6 @@
 # Hey everyone 👋, I'm Samson Wahab
 
 Welcome to my GitHub profile! 🚀 I am a passionate **Cloud and DevOps Enthusiast** based in the UK. I am working as a Cloud and DevOps for 5+ years with expertise in designing, implementing, and managing scalable, secure, and cost-effective cloud solutions. I specialize in **Cloud Infrastructure**, **Microservices**, and **Automation**, working across **AWS**, **Azure**, and **GCP** ecosystems. Feel free to reach out for any **Remote and Freelance Projects**!
-**Freelance Projects**!  
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
